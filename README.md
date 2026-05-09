@@ -23,6 +23,9 @@ An AI-powered Fashion Recommendation System developed using TensorFlow, ResNet50
 ### Home UI
 ![Home UI](home-ui.png)
 
+### Uploaded Image
+![Uploaded Image](uploaded-image1.png)
+
 ### Recommendation Results
 ![Recommendations](recommendations-1.1.png)
 
